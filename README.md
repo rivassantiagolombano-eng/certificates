@@ -1,17 +1,18 @@
-# certificates
-# Mis Certificaciones
+# 📜 Certifications
 
 ## Python Essentials 1
 
-Institución: Cisco Networking Academy
+Issuer: Cisco Networking Academy
 
-Habilidades aprendidas:
+### Skills Learned
+- Variables and Data Types
+- Input and Output
+- Conditional Statements
+- Loops
+- Lists
+- Functions
+- Exception Handling
 
-- Variables y tipos de datos
-- Condicionales
-- Bucles
-- Funciones
-- Listas
-- Manejo de excepciones
+### Verification
+🔗 Credly Badge
 
-Certificado disponible en este repositorio.
